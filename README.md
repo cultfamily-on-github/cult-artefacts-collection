@@ -1,6 +1,7 @@
 # CULT Artefacts Collection
 
-This repository is meant to collect and preserve artefacts of a movement which is already CULT. 
+This repository is meant to collect and preserve artefacts of a movement which is already CULT.   
+The plan is that the [cultmagazine.org](https://cultmagazine.org/) will be able one day to automatically display the artefacts which are stored here.   
 
 ## Contribute
 Everyone is invited to contribute. If you want to contribute but do not fully get how [pull requests](https://www.youtube.com/watch?v=8lGpZkjnkt4) work yet, you can also just [submit an issue](https://github.com/michael-spengler/cult-artefacts-collection/issues) and attach the meme, image, pdf or whatever you would like to upload.
