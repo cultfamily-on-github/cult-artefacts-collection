@@ -9,7 +9,7 @@ Everyone is invited to contribute. If you want to contribute but do not fully ge
 You can find CULT Education Video Links [here]().
 
 ## CULT Education Document Links
-You can find CULT Document Video Links [here]().
+You can find CULT Document Links [here]().
 
 ## CULT Education Documents
 You can find CULT Education Documents [here]().
