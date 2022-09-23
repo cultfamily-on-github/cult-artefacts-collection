@@ -18,5 +18,8 @@ You can find CULT Education Documents [here]().
 You can find CULT Education Video Links [here]().
 
 
-
+## Regular Uploads to IPFS
+This is under construction.  
+I guess many of us are running an [ipfs.io](https://ipfs.io) node. 
+I can imagine that we have regular automated synch runs where the content of this repo's folder is uploaded to ipfs - and pinned - at least until the next upload run is completed. 
 
