@@ -9,7 +9,7 @@
 
 
 ## Video Channels
-[Crypto Series supporting the CULT strongly](https://www.youtube.com/channel/UC3ZKeIwmBWqOwMNK0uR2f-Q)
+[Crypto Series supporting the CULT strongly](https://www.youtube.com/channel/UC3ZKeIwmBWqOwMNK0uR2f-Q)  
 [CULT Magazine Video Channel on Rumble](https://rumble.com/c/c-1902267)   
 
 
